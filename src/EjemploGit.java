@@ -7,7 +7,7 @@ public class EjemploGit {
 		String nombre = "raul";
 		
 		System.out.println(nombre);
-		System.out.println("lo consegui");
+		System.out.println("...");
 	
 	}
 
